@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Postal is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://postalserver.io/
+Postal provides a suite of installation tools and documentation for setting up and running the Postal email delivery platform. The repository includes scripts for quick deployment, detailed prerequisites, and guides covering getting started, configuration, and operation. It aims to simplify the installation process for developers and system administrators, offering both v2 and v3 installation scripts and links to comprehensive online documentation.
+
+**Areas:** Installation · Open Source · DevOps · Docker · Tools
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://postalserver.io/)
+- [Documentation](https://docs.postalserver.io/)
+- [Getting started](https://docs.postalserver.io/getting-started/)
+- [Pricing](https://github.com/pricing)
+- [Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=postalserver%2Finstall)
+- [Support](https://discord.postalserver.io)
+- [Security](https://github.com/postalserver/install/security)
+- [GitHub](https://github.com/why-github)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/postal-server/](https://apis.io/providers/postal-server/).
